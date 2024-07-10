@@ -1,6 +1,6 @@
 # Repository Analysis
 
-This repository contains three files, each performing different analyses on various datasets. Below is a detailed description of each file and the analyses performed within.
+This repository contains three files, each performing different analyses on`healthcare-dataset-stroke-data.csv` dataset. Below is a detailed description of each file and the analyses performed within.
 
 ## Files Overview
 

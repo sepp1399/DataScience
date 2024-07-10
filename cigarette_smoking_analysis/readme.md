@@ -5,7 +5,7 @@ This repository contains three files, each performing different analyses on`heal
 ## Files Overview
 
 1. `cigarette_smoking_TAI.ipynb`
-2. `cygarette_smoking.ipynb`
+2. `cigarette_smoking.ipynb`
 3. `healthcare-dataset-stroke-data.csv`
 
 ### 1. `cigarette_smoking_TAI.ipynb`
@@ -21,7 +21,7 @@ This Jupyter Notebook contains an analysis of cigarette smoking data using Trust
 - **TAI Calculation:** Calculate the Trustworthy AI metrics for different age groups.
 - **Data Visualization:** Create plots to visualize the smoking trends and TAI results.
 
-### 2. `cygarette_smoking.ipynb`
+### 2. `cigarette_smoking.ipynb`
 
 This notebook includes various analyses and exercises designed to test their understanding of data analysis techniques and tools.
 
@@ -33,7 +33,10 @@ This notebook includes various analyses and exercises designed to test their und
 
 ### 3. `healthcare-dataset-stroke-data.csv`
 
-This CSV file contains data related to stroke incidents in a healthcare setting. The dataset includes various attributes such as age, gender, hypertension, heart disease, and more.
+This CSV file contains data related to stroke incidents in a healthcare setting. The dataset includes various attributes such as age, gender, hypertension, heart disease, and more. 
+The dataset used for the analyses in this repository is sourced from Kaggle and can be found at the following link:
+
+- [Healthcare Dataset Stroke Data](https://www.kaggle.com/datasets/godfatherfigure/healthcare-dataset-stroke-data)
 
 #### Key Columns:
 - `id`: Unique identifier for each patient.

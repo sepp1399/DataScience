@@ -1,6 +1,6 @@
 # Data Science Analysis Repository
 
-Welcome to the Data Science Analysis Repository. This repository is dedicated to hosting various data science analyses performed in English. Here you will find a collection of notebooks, scripts, and reports covering a wide range of topics and techniques in data science.
+Welcome to the Data Science Analysis Repository. This repository is dedicated to hosting various data science analyses. Here you will find a collection of notebooks, scripts, and reports covering a wide range of topics and techniques in data science.
 
 ## Contents
 

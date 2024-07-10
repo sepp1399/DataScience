@@ -21,7 +21,7 @@ This Jupyter Notebook contains an analysis of cigarette smoking data using Trust
 - **TAI Calculation:** Calculate the Trustworthy AI metrics for different age groups.
 - **Data Visualization:** Create plots to visualize the smoking trends and TAI results.
 
-### 2. `cygarette_smoking`
+### 2. `cygarette_smoking.ipynb`
 
 This notebook includes various analyses and exercises designed to test their understanding of data analysis techniques and tools.
 

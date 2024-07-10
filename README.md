@@ -6,9 +6,6 @@ Welcome to the Data Science Analysis Repository. This repository is dedicated to
 
 - [Analyses](#analyses)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Analyses
 
@@ -25,5 +22,5 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/sepp1399/DataScience.git
+   cd DataScience
